@@ -35,4 +35,4 @@ public static void main(String[] args) {
         }
 	}
 }
-//comentari copia de treball
+//comentari copia de treball jaja
